@@ -1,0 +1,39 @@
+body {
+    
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5;
+    background-color: bisque;
+}
+
+
+
+
+
+/* Navigation bar */
+
+
+.customNav {
+    position:relative;
+    width: 100%;
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: cover;
+    z-index: 10;
+  }
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+  }
+  
+/* Navigation links */
+.customNav a {
+    color: white !important;
+  }
+  .navCTA {
+    font-size: 15px;
+  }
