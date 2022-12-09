@@ -57,7 +57,7 @@ h1,h2,h3,h4,h5,h6{
 
 .jumboCopy {
   width: 70%;
-  min-width: 500px;
+  
   max-width: 700px;
   color:#f44336;
   text-align: center;
@@ -66,8 +66,8 @@ h1,h2,h3,h4,h5,h6{
 #my-photo {
   margin-top: 100px;
   margin-bottom: 100px;
-  width: 400px;
-  height: 350px;
+  width: 50%;
+  height:50%;
 }
 
 /*cards*/
