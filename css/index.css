@@ -88,7 +88,7 @@ h1,h2,h3,h4,h5,h6{
   margin: 200px 10px 200px 10px;
   background-color: green;
 }
-
+/*about me*/
 .about{
   margin: 200px 10px 200px 10px;
   background-color: chocolate;
@@ -99,6 +99,8 @@ h1,h2,h3,h4,h5,h6{
   margin-top: 100px;
   text-align: center;
   
+}
 
-
+.fooutton{
+  margin-top: 10px;
 }
