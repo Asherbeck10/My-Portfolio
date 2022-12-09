@@ -69,3 +69,17 @@ h1,h2,h3,h4,h5,h6{
   width: 400px;
   height: 350px;
 }
+
+/*cards*/
+
+.cardContainer {
+  margin-top: 20px;
+}
+.card {
+  margin: 0 auto;
+
+  
+}
+.content{
+  padding:50px
+}
