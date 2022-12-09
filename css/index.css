@@ -83,11 +83,17 @@ h1,h2,h3,h4,h5,h6{
 .content{
   padding:50px
 }
-/* about me*/
-.about{
+/* skills*/
+.skills{
   margin: 200px 10px 200px 10px;
   background-color: green;
 }
+
+.about{
+  margin: 200px 10px 200px 10px;
+  background-color: chocolate;
+}
+
 
 .contactButton {
   margin-top: 100px;
