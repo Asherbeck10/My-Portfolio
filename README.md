@@ -30,7 +30,9 @@ https://asherbeck10.github.io/Bootstrap-Portfolio/
 
 * To access my contacts please click the links in the footer (5).
 
-* For small screens  use scroll to  navigate to a section.
+* To navigate on a small screens use the "Hamburger button" on the upper left corner (see screenshot below).
+
+![my web image](/images/small%20screen.png)
 
 
 ## Credits
