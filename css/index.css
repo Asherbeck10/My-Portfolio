@@ -66,8 +66,8 @@ h1,h2,h3,h4,h5,h6{
 #my-photo {
   margin-top: 100px;
   margin-bottom: 100px;
-  width: 50%;
-  height:50%;
+  width: 20%;
+  height:100%;
 }
 
 /*cards*/
@@ -103,5 +103,29 @@ h1,h2,h3,h4,h5,h6{
 
 .btn{
   border-radius: 7.25rem !important;
+
+}
+/*media query-1200px*/
+@media only screen and (max-width: 1200px) {
+  #my-photo {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 30%;
+    height:50%;
+  }
+  
+
+}
+
+
+/*media query-600px*/
+@media only screen and (max-width: 600px) {
+  #my-photo {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 50%;
+    height:50%;
+  }
+  
 
 }
